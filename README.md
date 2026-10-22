@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# tech stack
+ - Python
+ - Julia
+ - Rust
 <!--
 **djroyleo/djroyleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
