@@ -3,7 +3,7 @@
 I love lots of things and I dabble, professionally or otherwise, in many of those things. I've consistently been a big fan of geospatial information; the integration of geospatial information into geoscientific analysis is a big part of the work I've done in my master's program! Since 2022 I fell back into love with mathematics after a hiatus post- high school pre-calc and I have since then been studying statistics, dynamical systems, and fluid mechanics (particularly Geophysical Fluid Dynamics--my true love ❤️). I also have a deep fascination with computer programming and software architecture, and many of my personal passion projects aim to blend my love of geoscience/GIS with software!
 
 # Tech stack
- - Python (functionally proficient)
+ - Python (proficient)
  - Julia (functionally proficient)
  - R (I try to avoid it, but I know ball)
  - Rust (I'm reading [The Book](https://doc.rust-lang.org/book/), but I'm still getting there ... )
