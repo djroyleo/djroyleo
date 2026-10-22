@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 # tech stack
- - Python
- - Julia
- - Rust
+ - Python (functionally proficient)
+ - Julia (functionally proficient)
+ - Rust (i'm getting there ...)
 <!--
 **djroyleo/djroyleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
