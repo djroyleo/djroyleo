@@ -5,6 +5,7 @@ I love lots of things and I dabble, professionally or otherwise, in many of thos
 # Tech stack
  - Python (functionally proficient)
  - Julia (functionally proficient)
+ - R (I try to avoid it, but I know ball)
  - Rust (I'm reading [The Book](https://doc.rust-lang.org/book/), but I'm still getting there ... )
 <!--
 **djroyleo/djroyleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
